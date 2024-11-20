@@ -1,0 +1,8 @@
+# ディレクトリ移動
+cd go_app
+# ディレクトリ全てビルド
+go build
+# ファイル名を指定してビルド
+go build -o go_app
+# 起動
+./go_app
